@@ -1,6 +1,7 @@
 {
     "name": "wdbkti/deboer-test",
     "description": "hello, composer",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -8,8 +9,7 @@
             "email": "wdbkti@qq.com"
         }
     ],
-    "version": "0.0.1",
-    "minimum-stability": "stable",
+    "version": "v0.0.1",
     "require": {
 	"php": ">=7.0"
     },
